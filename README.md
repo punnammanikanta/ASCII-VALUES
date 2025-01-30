@@ -1,0 +1,2 @@
+# ASCII-VALUES
+variables value
